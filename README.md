@@ -2,9 +2,11 @@
   <img width="30px"src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
   <img height="30px"src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h2>
-
-
 <!--
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="300" height="auto" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <img height="40px" src="https://emojis.slackmojis.com/emojis/images/1643510988/48671/android-eyes.gif?1643510988">
 <img height="40px" src="https://emojis.slackmojis.com/emojis/images/1693998430/68449/androiddd.gif?1693998430">
 

@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--> 
+<!-- 
+&nbsp; -> space
+<br/> -> new line
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Talk&nbsp;is&nbsp;cheap<br/>Show&nbsp;me&nbsp;the&nbsp;code&author=Linus&nbsp;Torvalds)]()
+
 -->
